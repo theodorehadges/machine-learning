@@ -4,7 +4,7 @@ Machine Learning Notebooks
 This repository contains Jupyter notebook machine learning projects from the book
 Hands-On Machine Learning with Scikit-Learn & TensorFlow
 ISBN: 978-1-491-96229-9
-## NOTE: some instructions of this README.md file have been copied from the book publisher's [README.md](https://raw.githubusercontent.com/ageron/handson-ml/master/README.md)
+### NOTE: some instructions of this README.md file have been copied from the book publisher's [README.md](https://raw.githubusercontent.com/ageron/handson-ml/master/README.md)
 
 Open the [Jupyter](http://jupyter.org/) notebooks you are interested in by:
 
@@ -24,7 +24,7 @@ Next, clone this repository by opening a terminal and typing the following comma
 
 If you do not want to install git, you can instead download [master.zip](https://github.com/ageron/handson-ml/archive/master.zip), unzip it, rename the resulting directory to `handson-ml` and move it to your development directory.
 
-If you want to go through chapter 16 on Reinforcement Learning, you will need to [install OpenAI gym](https://gym.openai.com/docs) and its dependencies for Atari simulations.
+If you want to go through the Reinforcement Learning projects, you will need to [install OpenAI gym](https://gym.openai.com/docs) and its dependencies for Atari simulations.
 
 If you are familiar with Python and you know how to install Python libraries, go ahead and install the libraries listed in `requirements.txt` and jump to the [Starting Jupyter](#starting-jupyter) section. If you need detailed instructions, please read on.
 
