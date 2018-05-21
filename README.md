@@ -4,7 +4,7 @@ Machine Learning Notebooks
 This repository contains Jupyter notebook machine learning projects from the book
 Hands-On Machine Learning with Scikit-Learn & TensorFlow
 ISBN: 978-1-491-96229-9
-# NOTE: some instructions of this README.md file have been copied from the book publisher's [README.md](https://raw.githubusercontent.com/ageron/handson-ml/master/README.md)
+## NOTE: some instructions of this README.md file have been copied from the book publisher's [README.md](https://raw.githubusercontent.com/ageron/handson-ml/master/README.md)
 
 Open the [Jupyter](http://jupyter.org/) notebooks you are interested in by:
 
