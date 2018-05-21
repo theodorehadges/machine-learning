@@ -8,8 +8,8 @@ ISBN: 978-1-491-96229-9
 
 Open the [Jupyter](http://jupyter.org/) notebooks you are interested in by:
 
-* Using [jupyter.org's notebook viewer](http://nbviewer.jupyter.org/github/ageron/handson-ml/blob/master/index.ipynb)
-    * note: [github.com's notebook viewer](https://github.com/ageron/handson-ml/blob/master/index.ipynb) also works but it is slower and the math formulas are not displayed correctly,
+* Viewing .ipynb files on this github repository.
+    * note: github's notebook viewer works but it is slow and the math formulas are not displayed correctly,
 * or by cloning this repository and running Jupyter locally. This option lets you play around with the code. In this case, follow the installation instructions below.
 
 # Installation
