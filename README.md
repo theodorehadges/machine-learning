@@ -19,10 +19,10 @@ First, you will need to install [git](https://git-scm.com/), if you don't have i
 Next, clone this repository by opening a terminal and typing the following commands:
 
     $ cd $HOME  # or any other development directory you prefer
-    $ git clone https://github.com/ageron/handson-ml.git
-    $ cd handson-ml
+    $ git clone https://github.com/theodorehadges/machine-learning.git
+    $ cd machine-learning
 
-If you do not want to install git, you can instead download [master.zip](https://github.com/ageron/handson-ml/archive/master.zip), unzip it, rename the resulting directory to `handson-ml` and move it to your development directory.
+If you do not want to install git, you can instead download [master.zip](https://github.com/ageron/handson-ml/archive/master.zip), unzip it, rename the resulting directory to `machine-learning` and move it to your development directory.
 
 If you want to go through the Reinforcement Learning projects, you will need to [install OpenAI gym](https://gym.openai.com/docs) and its dependencies for Atari simulations.
 
@@ -94,19 +94,10 @@ Next, use pip to install the required python packages. If you are not using virt
 Great! You're all set, you just need to start Jupyter now.
 
 ## Starting Jupyter
-If you want to use the Jupyter extensions (optional, they are mainly useful to have nice tables of contents), you first need to install them:
-
-    $ jupyter contrib nbextension install --user
-
-Then you can activate an extension, such as the Table of Contents (2) extension:
-
-    $ jupyter nbextension enable toc2/main
-
 Okay! You can now start Jupyter, simply type:
 
     $ jupyter notebook
 
 This should open up your browser, and you should see Jupyter's tree view, with the contents of the current directory. If your browser does not open automatically, visit [localhost:8888](http://localhost:8888/tree). Click on `index.ipynb` to get started!
 
-Note: you can also visit [http://localhost:8888/nbextensions](http://localhost:8888/nbextensions) to activate and configure Jupyter extensions.
 
